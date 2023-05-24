@@ -73,7 +73,7 @@ use App\Http\Controllers\Api\Modules\Admin\LedgerController;
 |
 */
 // Route::post('login', [UserController::class, 'login']);
-//check1
+//check2
 // ----------------------------------- register -----------------------------------------
 
 Route::post('/register', [UserController::class,'store']);
